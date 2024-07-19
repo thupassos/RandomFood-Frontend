@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /public/
+Disallow: /build/
+Allow: /    
+Sitemap: https://www.randomfood.com.br/sitemap.xml
+    
